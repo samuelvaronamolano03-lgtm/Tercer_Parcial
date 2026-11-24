@@ -18,3 +18,9 @@
 Aprendi mucho en este curso 🎉
 
 
+## Ejemplo en Python
+
+```python
+for marca in ["Renault", "Kia"]:
+    print(marca)
+```
